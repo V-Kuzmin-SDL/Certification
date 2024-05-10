@@ -1,5 +1,5 @@
 ﻿
-string[] initialArray = { "hello", "2", "world", ":-)" };
+string[] initialArray = { "Sunny", "16", "world", ":-)" };
 
 Console.WriteLine("Первоначальный массив строк:");
 foreach (var str in initialArray)
